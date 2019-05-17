@@ -1,4 +1,4 @@
-# ImplementationFacebookScraper
+# FacebookScraper
 Getting data from public Facebook Account/Page/Group and still on progress to scrape possible data! An implementation using mobolic facebook-sdk [https://github.com/mobolic/facebook-sdk] with some custumization like:
 * Scraping posts based on days or even how many posts you want to retrieve
 * You could set how many groups you want to retrieve while scraping joined groups of user
@@ -20,7 +20,7 @@ PyYAML==5.1
 ### Installing
 * Just use pip to installation
 ```
-pip install git+https://github.com/fchrulk/ImplementationFacebookScraper/
+pip install git+https://github.com/fchrulk/FacebookScraper/
 ```
 
 ### Example
@@ -29,7 +29,7 @@ First of all, you need to create yaml file on creds folder. See my-credentials.y
 Here it is an example to start using Jupyter Notebook
 ```
 # import package
-from ImplementationFacebookScraper.facebook_scraper import FacebookScraper
+from FacebookScraper.facebook_scraper import FacebookScraper
 
 # call engine
 scraper = FacebookScraper()
