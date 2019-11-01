@@ -77,5 +77,5 @@ group_basic_info = scraper.GetBasicInfoGroup(engine=api.engine, target_id=group_
 
 You can visit my LinkedIn [here](https://www.linkedin.com/in/fchrulk).
 
-Email : [fchrulk@outlook.com]
+Email : fachrul.kurniansyah@gmail.com
 
