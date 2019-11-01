@@ -75,7 +75,6 @@ group_basic_info = scraper.GetBasicInfoGroup(engine=api.engine, target_id=group_
 
 * **Fachrul Kurniansyah** - *ImplementationFacebookScraper* - [fchrulk](https://github.com/fchrulk)
 
-You can visit my LinkedIn [here](https://www.linkedin.com/in/fchrulk).
-
-Email : fachrul.kurniansyah@gmail.com
-
+#### Feel Free to Discuss :relieved:
+:coffee: LinkedIn&ensp;: [Fachrul Kurniansyah](https://www.linkedin.com/in/fchrulk)<br>
+:e-mail: Email&ensp;&ensp;&ensp;&ensp;: fachrul.kurniansyah@gmail.com
